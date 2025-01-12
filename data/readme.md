@@ -8,30 +8,58 @@ The DPClus software is required in order to visualize the cluster created from t
 
 ### Do a simple cluster
 ![Do a simple cluster.](/image/image.png)
-#### 1. Open the file
-![Open one of the network](image-1.png)
-#### 2. Convert to adjacency list
-Click `Convert` to convert the data into adjacency list.
 
-![Convert to adjacency list](/image/image-2.png)
-#### 3. Do the clustering
-Click `Do Cluster` to do the clustering process.
+<details close>
+<summary>1. Open the file</summary>
+<br>
+<img src="/image/image.png"></img>
+<br>
+</details>
 
-![Do clustering](/image/image-3.png)
-#### 4. Get the cluster info
-Go to: `Save -> cluster info` to save the information of the cluster.
+<details close>
+<summary>2. Convert to adjacency list</summary>
+<br>
+<p>Click <code>Convert</code> to convert the data into adjacency list.</p>
+<img src="/image/image-2.png"></img>
+<br>
+</details>
 
-![Cluster info](/image/image-4.png)
+<details close>
+<summary>3. Do the clustering</summary>
+<br>
+<p>Click <code>Do Cluster</code> to do the clustering process.</p>
+<img src="/image/image-3.png"></img>
+<br>
+</details>
 
-#### 5. Drawing the cluster
-Click `Plot Cluster`, once you've clicked, you will get the network.
+<details close>
+<summary>4. Get the cluster info</summary>
+<br>
+<p>Go to: <code>Save -> cluster info</code> to save the information of the cluster.</p>
+<img src="/image/image-4.png"></img>
+<br>
+</details>
 
-![Cluster network](/image/image-5.png)
+<details close>
+<summary>5. Drawing the cluster</summary>
+<br>
+<p>Click <code>Plot Cluster</code>, once you've clicked, you will get the network.</p>
+<img src="/image/image-6.png"></img>
+<br>
+</details>
 
-#### 6. Make it neat
-Go to: `View -> Circular` and click again `Plot Cluster`. You will get a round-shaped cluster.
+<details close>
+<summary>6. Make it neat</summary>
+<br>
+<p>Go to: <code>View -> Circular</code> and click again <code>Plot Cluster</code>. You will get a round-shaped cluster.</p>
+<img src="/image/image-6.png"></img>
+<br>
+</details>
 
-![Round-shaped cluster](/image/image-6.png)
-
-#### 7. Save the image
-Go to: `Save -> Multiple cluster` to save it.
+<details close>
+<summary>7. Save the image</summary>
+<br>
+<p>Go to: <code>Save -> Multiple cluster</code> to save it.</p>
+<img src="/image/image-6.png"></img>
+<br>
+</details>
